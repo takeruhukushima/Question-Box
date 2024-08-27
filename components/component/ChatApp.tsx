@@ -69,7 +69,7 @@ export function ChatApp() {
               </Avatar>
               <div className="flex-1">
                 <p className="font-medium">Acme Inc</p>
-                <p className="text-sm text-muted-foreground">Hey, how's it going?</p>
+                <p className="text-sm text-muted-foreground">Hey hows it going?</p>
               </div>
               <div className="text-xs text-muted-foreground">2h</div>
             </Link>
@@ -84,7 +84,7 @@ export function ChatApp() {
               </Avatar>
               <div className="flex-1">
                 <p className="font-medium">Jared Palmer</p>
-                <p className="text-sm text-muted-foreground">Sounds good, let's do it!</p>
+                <p className="text-sm text-muted-foreground">Sounds good, lets do it!</p>
               </div>
               <div className="text-xs text-muted-foreground">1d</div>
             </Link>
